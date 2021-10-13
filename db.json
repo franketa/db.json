@@ -50,6 +50,19 @@
       "alergias": "a las plantas",
       "informacion_adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
       
+    },
+    {
+      "id": "4",
+      "nombre_completo": "raul jorgelio",
+      "medico": 4000,
+      "sintomatologia": "asma",
+      "intervenciones_quirurgicas": "clavicula",
+      "medicacion": "paracetamol",
+      "tratamientos_actuales": "quimo",
+      "vacunas": "3",
+      "alergias": "a las plantas",
+      "informacion_adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
+      
     }
   ]
 }
