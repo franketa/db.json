@@ -50,18 +50,6 @@
       "alergias": "a las plantas",
       "informacion_adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
       
-    },
-    {
-      "id": "5",
-      "fields": {
-        "title": "Ak47 (Híbrida)",
-        "price": 4000,
-        "image": { "url": "assets/images/content/720x540/hemp_seeds.jpg" },
-        "categoria": "semillas",
-        "tipo": "Fotoperiodica FastVersion",
-        "href": "producto_",
-        "unidades": "3"
-      }
     }
   ]
 }
