@@ -1,0 +1,940 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "fields": {
+        "title": "Wild Thailand (100% Sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "2",
+      "fields": {
+        "title": "Afghan Kush (100% Indica)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "3",
+      "fields": {
+        "title": "Ketama (100% Indica)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "4",
+      "fields": {
+        "title": "Kilimanjaro (100% Sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "5",
+      "fields": {
+        "title": "Ak47 (Híbrida)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "6",
+      "fields": {
+        "title": "Hazepasion (Sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "7",
+      "fields": {
+        "title": "Northern Light (Indica)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "8",
+      "fields": {
+        "title": "White Widow (Hibrida pred Indica)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "9",
+      "fields": {
+        "title": "Semilla franketa automatica",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "automatica",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "10",
+      "fields": {
+        "title": "Àceite para franketa",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "aceite",
+        "tipo": "",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "11",
+      "fields": {
+        "title": " South African Kwazulu (100% Sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "12",
+      "fields": {
+        "title": " Colombian Gold (100% Sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "13",
+      "fields": {
+        "title": " Hazepasion (Sativa 100 %)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "14",
+      "fields": {
+        "title": " Hazepasion x Joannes CBD",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "15",
+      "fields": {
+        "title": " Hazepasion x Deep Mandarine",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "16",
+      "fields": {
+        "title": " Ak47 (Hibrida pred sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "17",
+      "fields": {
+        "title": " Triple G (Hibrida pred Indica)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "18",
+      "fields": {
+        "title": " Sweet Tai (Hibrida pred sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "19",
+      "fields": {
+        "title": " White Widow (Hibrida pred Indica)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "20",
+      "fields": {
+        "title": " Gorila Real (Hibrida pred sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "21",
+      "fields": {
+        "title": " Amnesia Haze (Hibrida pred sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "22",
+      "fields": {
+        "title": " Royal Domina (Hibrida pred Indica)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "23",
+      "fields": {
+        "title": " Joannes CBD (Hibrida pred sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "24",
+      "fields": {
+        "title": " Power Flower (Hibrida pred sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "25",
+      "fields": {
+        "title": " Deep Mandarine (Hibrida pred Indica)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "26",
+      "fields": {
+        "title": "Power Flower (Hibrida pred sativa)",
+        "price": 4000,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "3"
+      }
+    },
+    {
+      "id": "27",
+      "fields": {
+        "title": "Wild Thailand (100% Sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "28",
+      "fields": {
+        "title": "Afghan Kush (100% Indica)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "29",
+      "fields": {
+        "title": "Ketama (100% Indica)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "30",
+      "fields": {
+        "title": "Kilimanjaro (100% Sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "31",
+      "fields": {
+        "title": "Ak47 (Híbrida)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "32",
+      "fields": {
+        "title": "Hazepasion (Sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "33",
+      "fields": {
+        "title": "Northern Light (Indica)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "34",
+      "fields": {
+        "title": "White Widow (Hibrida pred Indica)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "35",
+      "fields": {
+        "title": "Semilla franketa automatica",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "automatica",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "36",
+      "fields": {
+        "title": "Àceite para franketa",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "aceite",
+        "tipo": "",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "37",
+      "fields": {
+        "title": " South African Kwazulu (100% Sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "38",
+      "fields": {
+        "title": " Colombian Gold (100% Sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "39",
+      "fields": {
+        "title": " Hazepasion (Sativa 100 %)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "40",
+      "fields": {
+        "title": " Hazepasion x Joannes CBD",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "41",
+      "fields": {
+        "title": " Hazepasion x Deep Mandarine",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "42",
+      "fields": {
+        "title": " Ak47 (Hibrida pred sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "43",
+      "fields": {
+        "title": " Triple G (Hibrida pred Indica)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "44",
+      "fields": {
+        "title": " Sweet Tai (Hibrida pred sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "45",
+      "fields": {
+        "title": " White Widow (Hibrida pred Indica)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "46",
+      "fields": {
+        "title": " Gorila Real (Hibrida pred sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "47",
+      "fields": {
+        "title": " Amnesia Haze (Hibrida pred sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "48",
+      "fields": {
+        "title": " Royal Domina (Hibrida pred Indica)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "49",
+      "fields": {
+        "title": " Joannes CBD (Hibrida pred sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "50",
+      "fields": {
+        "title": " Power Flower (Hibrida pred sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "51",
+      "fields": {
+        "title": " Deep Mandarine (Hibrida pred Indica)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "52",
+      "fields": {
+        "title": "Power Flower (Hibrida pred sativa)",
+        "price": 5500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "6"
+      }
+    },
+    {
+      "id": "53",
+      "fields": {
+        "title": "Wild Thailand (100% Sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "54",
+      "fields": {
+        "title": "Afghan Kush (100% Indica)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "55",
+      "fields": {
+        "title": "Ketama (100% Indica)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "56",
+      "fields": {
+        "title": "Kilimanjaro (100% Sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "57",
+      "fields": {
+        "title": "Ak47 (Híbrida)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "58",
+      "fields": {
+        "title": "Hazepasion (Sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "59",
+      "fields": {
+        "title": "Northern Light (Indica)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "60",
+      "fields": {
+        "title": "White Widow (Hibrida pred Indica)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "61",
+      "fields": {
+        "title": "Semilla franketa automatica",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "automatica",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "62",
+      "fields": {
+        "title": "Àceite para franketa",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "aceite",
+        "tipo": "",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "63",
+      "fields": {
+        "title": " South African Kwazulu (100% Sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "64",
+      "fields": {
+        "title": " Colombian Gold (100% Sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "65",
+      "fields": {
+        "title": " Hazepasion (Sativa 100 %)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "66",
+      "fields": {
+        "title": " Hazepasion x Joannes CBD",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "67",
+      "fields": {
+        "title": " Hazepasion x Deep Mandarine",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "68",
+      "fields": {
+        "title": " Ak47 (Hibrida pred sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "69",
+      "fields": {
+        "title": " Triple G (Hibrida pred Indica)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "70",
+      "fields": {
+        "title": " Sweet Tai (Hibrida pred sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "71",
+      "fields": {
+        "title": " White Widow (Hibrida pred Indica)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "72",
+      "fields": {
+        "title": " Gorila Real (Hibrida pred sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "73",
+      "fields": {
+        "title": " Amnesia Haze (Hibrida pred sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "74",
+      "fields": {
+        "title": " Royal Domina (Hibrida pred Indica)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "75",
+      "fields": {
+        "title": " Joannes CBD (Hibrida pred sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "76",
+      "fields": {
+        "title": " Power Flower (Hibrida pred sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "77",
+      "fields": {
+        "title": " Deep Mandarine (Hibrida pred Indica)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica Tradicional",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    },
+    {
+      "id": "78",
+      "fields": {
+        "title": "Power Flower (Hibrida pred sativa)",
+        "price": 7500,
+        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "categoria": "semillas",
+        "tipo": "Fotoperiodica FastVersion",
+        "href": "producto-",
+        "unidades": "12"
+      }
+    }
+  ]
+}
