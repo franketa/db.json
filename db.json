@@ -2,51 +2,54 @@
   "pacientes": [
     {
       "id": "1",
-        "nombre": "Wild Thailand (100% Sativa)",
+        "nombre-completo": "raul jorgelio",
         "medico": 4000,
         "sintomatologia": "asma",
-        "intervenciones-quirurgicas": "semillas",
-        "medicacion": "Fotoperiodica Tradicional",
-        "tratamientos-actuales": "producto-",
+        "intervenciones-quirurgicas": "clavicula",
+        "medicacion": "paracetamol",
+        "tratamientos-actuales": "quimo",
         "vacunas": "3",
         "alergias": "a las plantas",
         "informacion-adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
     },
     {
       "id": "2",
-      "fields": {
-        "title": "Afghan Kush (100% Indica)",
-        "price": 4000,
-        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
-        "categoria": "semillas",
-        "tipo": "Fotoperiodica Tradicional",
-        "href": "producto-",
-        "unidades": "3"
-      }
+      "nombre-completo": "raul jorgelio",
+      "medico": 4000,
+      "sintomatologia": "asma",
+      "intervenciones-quirurgicas": "clavicula",
+      "medicacion": "paracetamol",
+      "tratamientos-actuales": "quimo",
+      "vacunas": "3",
+      "alergias": "a las plantas",
+      "informacion-adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
+      
     },
     {
       "id": "3",
-      "fields": {
-        "title": "Ketama (100% Indica)",
-        "price": 4000,
-        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
-        "categoria": "semillas",
-        "tipo": "Fotoperiodica Tradicional",
-        "href": "producto-",
-        "unidades": "3"
-      }
+      "nombre-completo": "raul jorgelio",
+      "medico": 4000,
+      "sintomatologia": "asma",
+      "intervenciones-quirurgicas": "clavicula",
+      "medicacion": "paracetamol",
+      "tratamientos-actuales": "quimo",
+      "vacunas": "3",
+      "alergias": "a las plantas",
+      "informacion-adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
+      
     },
     {
       "id": "4",
-      "fields": {
-        "title": "Kilimanjaro (100% Sativa)",
-        "price": 4000,
-        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
-        "categoria": "semillas",
-        "tipo": "Fotoperiodica Tradicional",
-        "href": "producto-",
-        "unidades": "3"
-      }
+      "nombre-completo": "raul jorgelio",
+      "medico": 4000,
+      "sintomatologia": "asma",
+      "intervenciones-quirurgicas": "clavicula",
+      "medicacion": "paracetamol",
+      "tratamientos-actuales": "quimo",
+      "vacunas": "3",
+      "alergias": "a las plantas",
+      "informacion-adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
+      
     },
     {
       "id": "5",
