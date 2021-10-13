@@ -2,53 +2,53 @@
   "pacientes": [
     {
       "id": "1",
-        "nombre-completo": "raul jorgelio",
+        "nombre_completo": "raul jorgelio",
         "medico": 4000,
         "sintomatologia": "asma",
-        "intervenciones-quirurgicas": "clavicula",
+        "intervenciones_quirurgicas": "clavicula",
         "medicacion": "paracetamol",
-        "tratamientos-actuales": "quimo",
+        "tratamientos_actuales": "quimo",
         "vacunas": "3",
         "alergias": "a las plantas",
-        "informacion-adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
+        "informacion_adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
     },
     {
       "id": "2",
-      "nombre-completo": "raul jorgelio",
+      "nombre_completo": "raul jorgelio",
       "medico": 4000,
       "sintomatologia": "asma",
-      "intervenciones-quirurgicas": "clavicula",
+      "intervenciones_quirurgicas": "clavicula",
       "medicacion": "paracetamol",
-      "tratamientos-actuales": "quimo",
+      "tratamientos_actuales": "quimo",
       "vacunas": "3",
       "alergias": "a las plantas",
-      "informacion-adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
+      "informacion_adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
       
     },
     {
       "id": "3",
-      "nombre-completo": "raul jorgelio",
+      "nombre_completo": "raul jorgelio",
       "medico": 4000,
       "sintomatologia": "asma",
-      "intervenciones-quirurgicas": "clavicula",
+      "intervenciones_quirurgicas": "clavicula",
       "medicacion": "paracetamol",
-      "tratamientos-actuales": "quimo",
+      "tratamientos_actuales": "quimo",
       "vacunas": "3",
       "alergias": "a las plantas",
-      "informacion-adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
+      "informacion_adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
       
     },
     {
       "id": "4",
-      "nombre-completo": "raul jorgelio",
+      "nombre_completo": "raul jorgelio",
       "medico": 4000,
       "sintomatologia": "asma",
-      "intervenciones-quirurgicas": "clavicula",
+      "intervenciones_quirurgicas": "clavicula",
       "medicacion": "paracetamol",
-      "tratamientos-actuales": "quimo",
+      "tratamientos_actuales": "quimo",
       "vacunas": "3",
       "alergias": "a las plantas",
-      "informacion-adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
+      "informacion_adicional": "ASJDKLAJSGHDKASGHDAKUGDHAKSJDG"
       
     },
     {
@@ -56,10 +56,10 @@
       "fields": {
         "title": "Ak47 (Híbrida)",
         "price": 4000,
-        "image": { "url": "assets/images/content/720x540/hemp-seeds.jpg" },
+        "image": { "url": "assets/images/content/720x540/hemp_seeds.jpg" },
         "categoria": "semillas",
         "tipo": "Fotoperiodica FastVersion",
-        "href": "producto-",
+        "href": "producto_",
         "unidades": "3"
       }
     }
